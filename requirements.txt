@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+python-dotenv
+google-genai
+groq
+qdrant-client
+rank-bm25
+beautifulsoup4
+lxml
+numpy
+pandas
+requests
